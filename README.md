@@ -5,7 +5,7 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/very_simple_tree_simulation".git
+$ git clone https://github.com/ZERDICORP/very_simple_tree_simulation.git
 $ cd very_simple_tree_simulation
 $ ./run
 ```
